@@ -1,0 +1,6 @@
+{
+    "name": "necodeo/buffer",
+    "require": {
+        "php": ">=7.4"
+    }
+}
